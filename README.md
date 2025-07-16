@@ -1,3 +1,5 @@
 # git_demo
 this is the demo for the git.
-THIS IS THE UPDATE 
+THIS IS THE UPDATE   
+this is the new commit content 
+this is second new content 
