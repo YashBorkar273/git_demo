@@ -6,4 +6,4 @@ this is second new content
 
 this is an update from the github.
 
-this is the commit for the revert command 
+this is the commit for the revert command .
